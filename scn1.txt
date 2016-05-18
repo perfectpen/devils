@@ -1,175 +1,165 @@
-SCENE 1 
-[Stepan's regal livingroom, early afternoon, he's dressed formally but ready to leave, he faces the audience and begins speaking in a haughty, contempous, melodramatic, and defiant tone possibly adjusting his clothes]
+﻿SCENE 1 
+[Stepan's well-off livingroom, early afternoon, he's dressed formally and ready to leave, he faces the audience and begins speaking in a haughty and defiant tone possibly adjusting his clothes]
 
 STEPAN:
-Can you suppose... that I, Stepan Verhovensky, cannot find the moral strength to pack a bag and lay it on these feeble shoulders to go out my gate and vanish forever?  This is not the first time I've had to repel despotism, especially of that crazy woman who supports me.  'Stay at home', she instructs me!  You don't believe I have the strength to leave this pampered servitude, Varvara Petronva, to leave my post as a lecturer and tutor to march off and die with nobility of hunger in a ditch!  Answer me! Do you or don't you believe I have the strength?  [beat] Perhaps you're bored with me?
+Can you suppose... that I, Stepan Verhovensky, cannot find the moral strength to pack a bag, lay it on these feeble shoulders and go out my gate to vanish forever?  This is not the first time I've had to repel despotism, especially of that crazy woman who supports me. 'Stay at home', she instructs me!  You don't believe I have the strength to leave this pampered servitude as a tutor of the Petrovna family to march off and die of hunger, with honor, in a ditch!  Answer me! Do you or don't you believe I have the strength?  Perhaps you're bored with me?
 
 [Snatches hat & stick to leave when voices at the door, he stops, thunder-struck. Leputin enters followed by Krillov.]
 
 Liputin! [to himself] I am lost....
 
 LIPUTIN:
-Afernoon, I hope not to be intruding... I've brought a visitor.
+Good afternoon, Stepan, I hope I'm not intruding.
 
 STEPAN:
 I wasn't expecting to entertain today -
 
 LIPUTIN:
-Bah, you were going out! I was told that you were to stay at home today.
+Bah, you were going out! I was told that you were to stay at home.
 
 STEPAN:
-I've not felt well but I meant to go for a walk, I...  
+I meant to go for a walk...  
 
 [Flings hat and stick on the sofa embarrased, Liputin drags a chair to the middle, eyes darting from one side to the other.]
 
-LIPUTIN: May I introduce Mr. Kirillov, a distinguished civil engineer. He knows your son, the much esteemed Pyotr. He even brought a message from him.
+LIPUTIN: May I introduce Mr. Kirillov, a distinguished civil engineer. He's brought a message from your son, the much esteemed Pyotr.
 
 [Stepan mechanically offers his hand and motioned him to sit and sits himself still with stick and hat in hand unaware]
 
 KRILLOV:
-I know Pyotr, but there's no message.
+There's no message.
 
 STEPAN:
-It's... a long while since I've seen Pyotr. You met abroad?
+Oh, it's a long while since... You met him abroad?
 
 KRILLOV:
-Both here and abroad.  I left him in X. province ten days ago.
+I left him in X. province ten days ago.
 
 LIPUTIN: (about Krillov)
-Mr. Krillov has only just returned.  He has come to our town for a possible job building the new railway bridge.  He knows Varvara's son Nikolay too.
+Mr. Krillov has only just returned.  He comes to our town for a job on the new railway bridge.  He knows Nikolay too.
 
 STEPAN:
-You know Nicolay as well?
+You know Varvara's son as well?
 
 KRILLOV:
-[angrily] I know him too.
+[angrily] I know him.
 
 STEPAN:
-It's been... years since I've seen either Nikolay or my son Pyotr.  As Nikolay's tutor we were actually quite close.  Regrettably, I have little right to even call myself a father...  Is he doing well?
+It's been... years since I've seen Nikolay or my son.  I was Nikolay's tutor.  Regrettably with Pyotr, I have little right to call myself a father...  How is he?
 
 KRILLOV:
 You can ask him yourself soon enough.
 
 STEPAN:
-He's coming? At last I ... you see, it's very long since I've see Pyotr!  When I left him in Capitol he was such a nervous boy, he used to pray each night, crossing his pillow, that he would not die in his sleep... comma un idiot....
+He's coming? At last I ... it's very long since I've seen Pyotr!  The last time I saw him in Capitol he was such a nervous boy, he used to pray each night that he wouldn't die in his sleep. comma un idiot....
 
 KRILLOV:
-He used to pray each night you say?
+He prayed each night you say?
 
 [Stepan nods]
 
-Surprising.
+Some things have changed.
 
 STEPAN:
-I'm grateful for this news.... Where do you lodge?
+Where do you lodge?
 
 KRILLOV:
-The guesthouse on the edge of town.
+Filipov's guesthouse.
 
 STEPAN:
-Where Shatov lives?
+Ah, where Shatov stays?
 
 LIPUTIN:
-The very same house!  Only Shatov lodges above in the attic, while Mr. Krillov is down below with Captain Lebyadkin. He knows Shatov too. 
-
-KRILLOV:
-How you add to things!
+The very same house!  Only Shatov lodges above in the attic, while Mr. Krillov is down below.
 
 STEPAN:
-I only ask because I'm fond of our friend Shatov. The poor boy gave up his ideals too abruptly. Now he says religious things about saints. He seems depressed.
+I'm fond of Shatov, but the poor boy seems depressed-
 
 LIPUTIN:
 Mr. Krillov is making a study on the increase of suicide in the province.
 
 KRILLOV:
-I'm not making a study. And Liputin, I asked your views, that's all.
-
-[Liputin was obviously enjoying himself.]
+I'm not making a study, I only asked you your views.
 
 LIPUTIN:
-I beg your pardon! He's only collecting observations. However, he rejects morality altogether and holds with the to the principle total destruction being for the ultimate good, that it is somehow the logical conclusion we should all reach to take our own lives. 
-
-[Krillov gives Liputin contemptuous smile, and for a minute every one was silent.]
+I beg your pardon! He's collecting observations. Mr. Krillov rejects morality altogether and holds to the principle total destruction.
 
 KRILLOV:
-I scorn talk this kind of talk, Liputin.
+I scorn to talk.
 
 STEPAN:
-But perhaps your ideas are wise.
+Perhaps your ideas are wise?
 
 KRILLOV:
-For four years I tried to see no one. Liputin found this out and is laughing.  I don't mind, I'm only annoyed at his liberty. I'm not afraid if someone gives information to the government about me.
+For years I tried to see no one. Liputin found out and is laughing.  I don't mind, I'm only annoyed at his liberty, maybe he wants to give information to the government.
 
 [Silence]
 
 STEPAN:
-Gentlemen, I'm sorry but I feel ill if you wouldn't mind excusing me.
+Gentlemen, I'm sorry but I feel ill if you wouldn't mind - 
 
 KRILLOV:
-That's for us to go. Sometimes I forget myself.
+That's for us to go.
 
 [Krillov rises and with a good-natured air holds out his hand.]
 
 STEPAN:
-I wish you every success among us.  I was only puzzled at one thing: you want to build a railway bridge yet hold to the principle of universal destruction?
+I wish you every success among us.  I was only puzzled at one thing: you want to help build the new railway bridge yet hold to the principle of universal destruction?
 
 KRILLOV:
 The railway? I say!
 
-[Krillov laughs and Liputin holds his hand in delight.]
+[Krillov laughs.]
 
 LIPUTIN:
-The reason Krillov is so short today is because he had a problem with his fellow lodger, Captain Lebyadkin who was thrashing the lame sister of his, the mad girl, every morning and evening with a leather whip. Well, good-bye.
+The reason Krillov is so short today is because he had a problem with another lodger, the Captain Lebyadkin, who thrashes his lame sister, the mad girl, every morning and evening with a whip. Well, good-bye.
 
 STEPAN:
-An invalid? Beaten with a whip?  Lebyadkin?  Who is that?  There used to be a lieutaneant....
+What? An invalid? A whip? Who is Lebyadkin? There used to be a lieutenant....
 
 LEPUTIN:
-That's the very man.
+That's the very same man.
 
 STEPAN:
-A scoundrel.
+If that's the truth then he's a scoundrel.
 
 LEPUTIN:
 As though none of us could be a scoundrel.
 
 STEPAN:
-What?
+What did you say?
 
 LEPUTIN:
-I was referring only to myself. This mad sister it seems, was seduced by someone from our town. Mr. Lebyadkin receives sums of money from the seducer every 6 months to keep quiet. 
-
-STEPAN:
-Is this true?
+I was referring only to myself. But there's more about the Lebyadkins, this mad sister its seems is involved with someone with money from our town. He receives considerable money to keep quiet about it.
 
 KRILLOV:
-You gossip a lot.
+You gossip too much, Leputin.
 
 [Krillov starts to exit]
 
 LEPUTIN:
-Krillov snatched the whip from Lebyadkin's hand as he beat his sister just this morning, broke it, and threw it out the window.
+Krillov snatched the whip from Lebyadkin's hand as he beat his sister just this morning, that's why he's in a troubled mood.
 
 KRILLOV:
-Stop chattering!
+Do you ever stop chattering?
 
 LEPUTIN:
-Why conceal the generous impulses of one's soul, of your soul?
+Why conceal the honourable impulses of one's soul, of your soul?
 
 KRILLOV:
-Lebyadkin's stupid and this conversation is of use to the cause.
+None of this is of use to the cause.
 
 [Krillov starts to leave again.]
 
 LEPUTIN:
-Oh, what a pity! [beat] Stepan, I had come to share a concern, your benefactor Varvara sent for me privately yesterday. But as Krillov must leave, good-bye.
+Oh, what a pity! Stepan, I had come to share how this concerns your benefactor Varvara, she sent for me yesterday. But as Krillov must leave, so good-bye.
 
-[Stepan seizes Leputin by the shoulders, turned him sharply back into the room, and sat him down in a chair alarming Liputin.]
+[Stepan seizes Leputin by the shoulders and turns him back into the room, sits him down.]
 
-Why, yes she sent for me yesterday and asked me 'confidentially' my private opinion, whether her son Nikolay is mad!
+Yes, yes she sent for me in complete 'confidentiality' to ask my opinion whether her son Nikolay is mad!
 
 STEPAN:
-You know you only came here to start a scandal!
+You want to start a scandal!
 
 LEPUTIN:
 Upon my word I -
@@ -178,70 +168,64 @@ STEPAN:
 Begin!
 
 LIPUTIN:
-I thought you knew about it already from Ms. Petrovna herself.
-
-STEPAN:
-You didn't think that. Now speak!
-
-LEPUTIN:
-'Nikolay has suffered many changes of fortune in his life', she said, 'it might well have affected his state of his mind.  Four years ago when Nikolay was in town, tell me what you thought of him.  I'm saying he's mad,' she said, 'that's quite out of the question!' But there might have been a peculiar turn of thought.'
+I thought you knew already from Ms. Petrovna herself, but I see....  Well, she asked me, 'Four years ago when Nikolay was in town, tell me what you thought of him.  He's suffered many turns of fortune in his life, I'm not saying he's mad,' she said, 'that's quite out of the question! But there might have been a peculiar turn of thought.'
 
 STEPAN:
 You have... so amazed me that I don't believe you.
 
 LIPUTIN:
-Observe, observe...  'I noticed it myself,' she said, and then added, 'Give me your word you'll hold this in confidence and I wil take every opportuity to show my gratitude.'
+'I noticed it myself,' she said!
 
 STEPAN:
-I haven't seen her for some days so don't know, but if it was said to you in confidence, and here you're telling it-
+I haven't seen her for some days... but if she asked you to keep it in confidence, and here you're telling it-
 
 LIPUTIN:
-Absolutely in confidence! But God strike me dead, are we strangers? Even Krillov.
+Absolutely in confidence, God strike me dead! Yet, how you insist yourself, Stepan!  But... are we strangers? Even Krillov-
 
 STEPAN:
 I don't share that attitude. 
 
 LIPUTIN:
-But given Varvara's concern I asked Krillov: 'You knew Nikolay well in the Capitol,' said I, 'What do you think of his mind?' He scowled just as he's doing now but finally admitted, 'I've sometimes thought there was something strange.' 
+Well given Varvara's concern I asked Krillov, 'You knew Nikolay well in the Capitol, what do you think of his mind?' Wouldn't you know, 'Sometimes I thought there was something strange', he said. 
 
 STEPAN:
 Is that true?
 
 KRILLOV:
-I did not give my whole opinion! And you have no right to drag me into this. Yes I knew Nikolay in the Captiol but that was long ago.  Leave me out of this scandal you're brewing!
+You have no right to drag me into this. That was long ago and I did not give my whole opinion.  Leave me out of this scandal!
 
-[Liputin threw up his hands with an air of oppressed innocence.]
+[Liputin threw up his hands in innocence.]
 
 LIPUTIN: 
-Scandal-monger! Why not say a spy?  It's all well to criticise... but even Captain Lebyadkin said the same of Nikolay. 'He's a subtle serpent', he said, 'he may be clever but he's mad.'
+Scandal-monger! Why not say I'm a spy?  Even the drunk Captain Lebyadkin thinks he's mad, 'He's a subtle serpent', he said, 'and he may be clever but he's mad.'
 
 STEPAN:
-But how would Lebyadkin know?
+How could Lebyadkin know?
 
 LIPUTIN: 
-Mr. Krillov?
+Mr. Krillov can explain....
 
 KRILLOV:
-I hardly know anything! You made Lebyadkin drunk for information. And now its clear why you brought me here, to make me say he's mad.  Like a spy.
+I hardly know anything! You made Lebyadkin drunk for information. And now its clear you brought me here to make me say Nikolay is mad.  
 
 LIPUTIN:
-On the contrary, Lebyadkin treated me to champagne.  But thank you for the idea, maybe I will make him drunk one day to find out these little secrets you're hiding!
+On the contrary, the broke Captail Lebyadkin has quite some money these days and treated me to champagne.  But maybe I will make him drunk one day to find out what you're hiding!
 
-[Stepan Trofimovitch looked in bewilderment at the two disputants who were giving themselves away]
+[Stepan grows bewildered at the two disputants]
 
-Krillov knows Nikolay but conceals it. And he knew Captain Lebyadkin before any of us, since six years ago in the Capitol, in that obscure epoch in the life of Nikolay. Our prince, it seems, surrounded himself with a queer selection of acquaintances, including Mr. Krillov.
+Krillov knows Nikolay but conceals it. And he knew Captain Lebyadkin before any of us, since six years ago in the Capitol, in that obscure epoch in the life of our prince. Nikolay, it seems, surrounded himself with a queer selection of acquaintances, including Mr. Krillov.
 
 KRILLOV:
-I warn you, Nikolay is meant to be here soon, and he knows how to defend himself.
+I warn you, Nikolay is meant to be in town before long, and he knows how to defend himself.
 
 LIPUTIN:
-Why warn me?  I am the first to say he is a man of refined intelligence. But I've swallowed a personal insult from his excellency myself,  s you know he made a pass at my wife in front of the town.  Why, even this lame Mademoiselle Lebyadkin who is thrashed daily with a whip, mad and bandy-legged, could be a victim of Nicolay.  Captain Lebyadkin even suggested that idea himself.  And stop crying about slander and spying but at the same time, Stepan, wringing it out of me with such curiosity. You speak of slander, the whole town is ringing with it!
+Why warn me?  I am the first to say he is a man of refined intelligence. Why, but even this lame and mad Mademoiselle Lebyadkin who is thrashed daily seems to be a victim of Nicolay.  Captain Lebyadkin suggested it himself.  And stop crying about slander and spying, the whole town is ringing with it!
 
 STEPAN:
 The whole town's ringing with what?
 
 LIPUTIN: (about Lebyadkin)
-Captain Lebyadkin is shouting it all over town and there's more, he says that Nicolay sent him one thousand rouples!
+Captain Lebyadkin is shouting all over town that it's Nikolay who's sending money to the drunk Captain to keep quiet, but its not working anymore.
 
 [Krillov gets up suddenly from his chair]
 
@@ -249,26 +233,26 @@ KRILLOV:
 This is vile!
 
 LIPUTIN:
-It was you yourself who confirmed it.
+You yourself confirmed it.
 
 KRILLOV:
-There's been a misunderstanding, some one made a mistake... 
+There's been a misunderstanding.
 
 LIPUTIN:
-A mad girl mixed up with the aristocratic prince Nickolay. You can see why Varvara is so concerned.  For that matter we should be too, it would mean nothing to him to disgrace to to cover his own sins by throwing shame on us, as I know myself.
+A mad girl mixed up with the estranged town prince. I think we can understand Ms. Petrovna's concern.  For that matter you should be concerned too, it's nothing for Nikolay to cover his own sins by throwing shame on an honorable man.  I know it myself four years ago when Nikolay groped my wife in front of the whole town.
 
 STEPAN:
 Be careful, Liputin.
 
-[stepan Trofimovitch got up from his easy chair and turned pale]
+[Stepan grows pale but stands up]
 
 KRILLOV:
-Don't believe it! Somebody made a mistake and Lebyadkin's drunk.  It will all be explained.
+Lebyadkin's drunk and there's been a mistake, it will all be explained.
 
 [exit Krillov]
 
 LIPUTIN:
-What? Why, I'm going with you!
+What? I'm going with you!
 
 [exit Liputin]
 
